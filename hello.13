@@ -1,0 +1,22 @@
+#불리언2nd
+
+x = 3
+
+# 1)
+if x > 2:
+     print("Hello","\n")
+     
+     
+# 2)
+if x > 5:
+     print("Hello","\n")
+esle:
+     print("Hi","\n")
+     
+# 3)
+if x > 5:
+      print("Hello","\n")
+elif x == 3:
+     print("Bye","\n")
+esle:
+     print("Hi","\n")
